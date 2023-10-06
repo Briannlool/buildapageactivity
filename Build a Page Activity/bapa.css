@@ -1,0 +1,92 @@
+nav{
+    height: 50px;
+    background-color: lightgray;
+}
+
+.wrapper{
+    height: 500px; 
+    background-color: beige;
+}
+
+.left{
+    width: 29%;
+    height: 100%;
+    background-color: aqua;
+    float: left; 
+}
+
+.right{
+    width: 70%;
+    height: 100%;
+    background-color: rgb(202, 229, 230);
+    float: right;
+}
+.navItem{
+    background-color: darkgray;
+    display: inline-block;
+    padding: 20px;
+    width: 60px;
+    text-align: center;
+}
+
+.profile{
+    background-color: burlywood;
+    height: 110px;
+    text-align: center;
+    padding: 20px;
+}
+.stats{
+    background-color: cornflowerblue;
+    height: 70%;
+}
+
+.profile img{
+    width: 100px;
+    border-radius: 50%;
+}
+
+.stats h3{
+    margin-top: 0;
+}
+.stats ul{
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 20px;
+}
+.profile p{
+    margin-top: 8px;
+}
+
+.hero{
+    height: 220px;
+   /* background-color: darkkhaki; */
+    margin: 20px;
+}
+.gallery{
+    height: 180px;
+   /* background-color: gainsboro; */
+    margin: 20px;
+    text-align: center;
+}
+/*
+.gallery img{
+    width: 30%;
+    margin: 5px;
+}
+*/
+.hero img{
+    width: 200px;
+    float: left; 
+    padding-right: 20px;
+    padding-bottom: 20px ;
+}
+
+
+
+
+
+
+
+
+
+
